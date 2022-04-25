@@ -19,9 +19,9 @@ https://github.com/pandiyancool
 
 Social media at Twitter,
 
-Follow @pandiyan_cool
+Follow https://twitter.com/pandiyan_cool
 
-Follow @efficientuser
+Follow https://twitter.com/efficientuser
 
 Programming forum at StackOverflow,
 https://stackoverflow.com/users/2134604/pandiyan-cool
