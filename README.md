@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/2134604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2134604" height="30" width="40" /></a>
 <a href="https://medium.com/@pandiyan_cool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pandiyan_cool" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/efficientuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efficientuser" height="30" width="40" /></a>
-<a href="/https://efficientuser.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://efficientuser.com/feed/" height="30" width="40" /></a>
+<a href="https://efficientuser.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://efficientuser.com/feed/" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
