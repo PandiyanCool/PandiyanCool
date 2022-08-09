@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter sentiment analysis with python library](https://efficientuser.com/2022/07/17/twitter-sentiment-analysis-with-python-library/)
+- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
+- [Do you have portfolio, please share](https://dev.to/pandiyancool/do-you-have-portfolio-please-share-4ok5)
+- [Pomodoro technique at work](https://dev.to/pandiyancool/pomodoro-technique-at-work-3opo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me</h3>
