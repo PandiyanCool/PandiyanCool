@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Twitter sentiment analysis with python library](https://efficientuser.com/2022/07/17/twitter-sentiment-analysis-with-python-library/)
+- [Adjacent JSX elements must be wrapped in an enclosing tag](https://efficientuser.com/2022/10/05/adjacent-jsx-elements-must-be-wrapped-in-an-enclosing-tag/)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 - [Do you have portfolio, please share](https://dev.to/pandiyancool/do-you-have-portfolio-please-share-4ok5)
 - [Pomodoro technique at work](https://dev.to/pandiyancool/pomodoro-technique-at-work-3opo)
