@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adjacent JSX elements must be wrapped in an enclosing tag](https://efficientuser.com/2022/10/05/adjacent-jsx-elements-must-be-wrapped-in-an-enclosing-tag/)
+- [ReactDOM.render is no longer supported in React 18](https://efficientuser.com/2022/10/07/reactdom-render-is-no-longer-supported-in-react-18/)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 - [Do you have portfolio, please share](https://dev.to/pandiyancool/do-you-have-portfolio-please-share-4ok5)
 - [Pomodoro technique at work](https://dev.to/pandiyancool/pomodoro-technique-at-work-3opo)
