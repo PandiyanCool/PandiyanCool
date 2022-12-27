@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How to Center a Div Using CSS](https://efficientuser.com/2022/12/23/how-to-center-a-div-using-css/)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 - [Do you have portfolio, please share](https://dev.to/pandiyancool/do-you-have-portfolio-please-share-4ok5)
-- [Pomodoro technique at work](https://dev.to/pandiyancool/pomodoro-technique-at-work-3opo)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
