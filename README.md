@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Python if else shorthand](https://efficientuser.com/2023/01/03/python-if-else-shorthand/)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
-- [Do you have portfolio, please share](https://dev.to/pandiyancool/do-you-have-portfolio-please-share-4ok5)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
