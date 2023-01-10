@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Objects in C# with Code Samples](https://efficientuser.com/2023/01/09/dynamic-objects-in-c-with-code-samples/)
+- [Getting started with Next.js and code samples.](https://efficientuser.com/2023/01/10/getting-started-with-next-js-and-code-samples/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
