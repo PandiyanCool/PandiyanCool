@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Todo Application using Next.js](https://efficientuser.com/2023/01/16/creating-a-todo-application-using-next-js/)
+- [DateTime Format in C#](https://efficientuser.com/2023/01/20/datetime-format-in-c/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
