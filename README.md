@@ -17,9 +17,9 @@
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating a Todo Application using Next.js](https://efficientuser.com/2023/01/16/creating-a-todo-application-using-next-js/)
-- [Angular — the learning story](https://medium.com/@pandiyan_cool/angular-the-learning-story-8e8b0d886b75?source=rss-57f3995a3222------2)
-- [How to outsmart peers in estimation — PERT principle](https://medium.com/@pandiyan_cool/how-to-outsmart-peers-in-estimation-pert-principle-e077cfccea10?source=rss-57f3995a3222------2)
-- [Technical Debt](https://medium.com/efficientuser/technical-debt-6b2b59961596?source=rss-57f3995a3222------2)
+- [Microservices](https://dev.to/pandiyancool/microservices-2den)
+- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
+- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
