@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DateTime Format in C#](https://efficientuser.com/2023/01/20/datetime-format-in-c/)
+- [Python 101: Navigating Common Challenges in Your Learning Journey](https://efficientuser.com/2023/01/28/python-101-navigating-common-challenges-in-your-learning-journey/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
