@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Managing Technical Debt in C#: Best Practices and Strategies for a Maintainable Codebase](https://efficientuser.com/2023/02/02/managing-technical-debt-in-c-best-practices-and-strategies-for-a-maintainable-codebase/)
+- [Mocking in Next.js with Jest: How to create mocks for API responses and dependencies](https://efficientuser.com/2023/04/13/mocking-in-next-js-with-jest-how-to-create-mocks-for-api-responses-and-dependencies/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
