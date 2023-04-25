@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mocking in Next.js with Jest: How to create mocks for API responses and dependencies](https://efficientuser.com/2023/04/13/mocking-in-next-js-with-jest-how-to-create-mocks-for-api-responses-and-dependencies/)
+- [Understanding Generics in C# Programming with code samples](https://efficientuser.com/2023/04/25/understanding-generics-in-c-programming-with-code-samples/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 - [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
