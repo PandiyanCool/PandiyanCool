@@ -16,8 +16,8 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced LINQ Query Techniques in C# with code samples](https://efficientuser.com/2023/05/09/advanced-linq-query-techniques-in-c-with-code-samples/)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
-- [Understanding Generics in C# Programming with code samples](https://efficientuser.com/2023/04/25/understanding-generics-in-c-programming-with-code-samples/)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
 - [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
 <!-- BLOG-POST-LIST:END -->
