@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Debug Mode in Uvicorn Python Files in PyCharm](https://efficientuser.com/2023/05/18/using-debug-mode-in-uvicorn-python-files-in-pycharm/)
+- [Getting Started: Building Your First Blog with Next.js and Markdown](https://efficientuser.com/2023/06/05/getting-started-building-your-first-blog-with-next-js-and-markdown/)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
