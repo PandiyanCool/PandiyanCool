@@ -17,9 +17,9 @@
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Install nodejs on Amazon EC2 Linux machine](https://efficientuser.com/2023/07/07/install-nodejs-on-amazon-ec2-linux-machine/)
+- [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
+- [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
-- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
-- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
