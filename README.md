@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with FaaS: A Quick Introduction](https://efficientuser.com/2023/09/20/getting-started-with-faas-a-quick-introduction/)
+- [Disabling console.log&lpar;&rpar; in Production: A Next.js and React Guide](https://efficientuser.com/2023/09/25/disabling-console-log-in-production-a-next-js-and-react-guide/)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
