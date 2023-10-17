@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on [https://efficientuser.com](https://efficientuser.com)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently experimenting **Nextjs**, **Python**
 
-- 💬 Ask me about **angular, react, azure, C#, elasticsearch**
+- 💬 Ask me about **angular, react, azure, C#, elasticsearch, react**
 
 - ⚡ Fun fact **I ride my bicycle around 100km**
 
