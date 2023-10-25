@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently experimenting **Nextjs**, **Python**
 
-- 💬 Ask me about **Angular, React, Azure, C#, Elasticsearch, AWS**
+- 💬 Ask me about **Angular, React, Azure, C#, Elasticsearch, AWS, Next.js**
 
 - ⚡ Fun fact **I ride my bicycle around 100km**
 
