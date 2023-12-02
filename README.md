@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular New Syntax for Control Flow: A Comparative Overview](https://efficientuser.com/2023/11/28/angular-new-syntax-for-control-flow-a-comparative-overview/)
+- [Mastering Next.js in 10 Days: A Comprehensive Tutorial Series](https://efficientuser.com/2023/12/02/mastering-next-js-in-10-days-a-comprehensive-tutorial-series/)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
