@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right UI Framework for Your Web Development Project: A Comprehensive Guide](https://efficientuser.com/2024/01/19/choosing-the-right-ui-framework-for-your-web-development-project-a-comprehensive-guide/)
+- [Navigating Peer Dependency Woes with npm i –legacy-peer-deps](https://efficientuser.com/2024/01/31/navigating-peer-dependency-woes-with-npm-i-legacy-peer-deps/)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
 - [Microservices](https://dev.to/pandiyancool/microservices-2den)
