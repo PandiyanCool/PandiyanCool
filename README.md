@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [South Indian Bank’s Rights Issue: A Deep Dive into Strengthening &amp; Growth](https://medium.com/@pandiyan_cool/south-indian-banks-rights-issue-a-deep-dive-into-strengthening-growth-831ef10c3aff?source=rss-57f3995a3222------2)
 - [Navigating Peer Dependency Woes with npm i –legacy-peer-deps](https://efficientuser.com/2024/01/31/navigating-peer-dependency-woes-with-npm-i-legacy-peer-deps/)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
 - [“Unlocking the Secrets to Organic Blog Growth: How to Increase Your Blog Views and Reach a Wider…](https://medium.com/efficientuser/unlocking-the-secrets-to-organic-blog-growth-how-to-increase-your-blog-views-and-reach-a-wider-d1edc35cf95a?source=rss-57f3995a3222------2)
-- [Microservices](https://dev.to/pandiyancool/microservices-2den)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
