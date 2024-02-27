@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Can Investing: A Long-Term Recipe for Wealth Creation](https://medium.com/efficientuser/coffee-can-investing-a-long-term-recipe-for-wealth-creation-b16535ff25f1?source=rss-57f3995a3222------2)
-- [South Indian Bank’s Rights Issue: A Deep Dive into Strengthening &amp; Growth](https://medium.com/@pandiyan_cool/south-indian-banks-rights-issue-a-deep-dive-into-strengthening-growth-831ef10c3aff?source=rss-57f3995a3222------2)
 - [Navigating Peer Dependency Woes with npm i –legacy-peer-deps](https://efficientuser.com/2024/01/31/navigating-peer-dependency-woes-with-npm-i-legacy-peer-deps/)
-- [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
+- [Microservices](https://dev.to/pandiyancool/microservices-2den)
+- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
+- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
