@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering useEffect in Next.js: A Balancing Act &lpar;with Code Samples&rpar;](https://efficientuser.com/2024/03/05/mastering-useeffect-in-next-js-a-balancing-act-with-code-samples/)
+- [Dynamic Objects in C#: A Balancing Act](https://efficientuser.com/2024/03/06/dynamic-objects-in-c-a-balancing-act/)
 - [Coffee Can Investing: A Long-Term Recipe for Wealth Creation](https://medium.com/efficientuser/coffee-can-investing-a-long-term-recipe-for-wealth-creation-b16535ff25f1?source=rss-57f3995a3222------2)
 - [South Indian Bank’s Rights Issue: A Deep Dive into Strengthening &amp; Growth](https://medium.com/@pandiyan_cool/south-indian-banks-rights-issue-a-deep-dive-into-strengthening-growth-831ef10c3aff?source=rss-57f3995a3222------2)
 - [Resolving Conflicts Between CodeLens and ReSharper in Visual Studio](https://medium.com/efficientuser/resolving-conflicts-between-codelens-and-resharper-in-visual-studio-5e042e13d9f4?source=rss-57f3995a3222------2)
