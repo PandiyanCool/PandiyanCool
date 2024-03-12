@@ -17,9 +17,9 @@
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Best Practices for Mastering Next.js Redirects](https://efficientuser.com/2024/03/12/best-practices-for-mastering-next-js-redirects/)
-- [Microservices](https://dev.to/pandiyancool/microservices-2den)
-- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
-- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
+- [Unveiling the Potential: A Deep Dive into C# 14 Features and Benefits](https://medium.com/@pandiyan_cool/unveiling-the-potential-a-deep-dive-into-c-14-features-and-benefits-0a711d3e7b90?source=rss-57f3995a3222------2)
+- [Coffee Can Investing: A Long-Term Recipe for Wealth Creation](https://medium.com/efficientuser/coffee-can-investing-a-long-term-recipe-for-wealth-creation-b16535ff25f1?source=rss-57f3995a3222------2)
+- [South Indian Bank’s Rights Issue: A Deep Dive into Strengthening &amp; Growth](https://medium.com/@pandiyan_cool/south-indian-banks-rights-issue-a-deep-dive-into-strengthening-growth-831ef10c3aff?source=rss-57f3995a3222------2)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
