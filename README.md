@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The 1–3–5 Technique: Mastering Your To-Do List](https://medium.com/@pandiyan_cool/the-1-3-5-technique-mastering-your-to-do-list-ec53f3ca094e?source=rss-57f3995a3222------2)
 - [Understanding CQRS &lpar;Command Query Responsibility Segregation&rpar; Pattern with C# Code Samples](https://efficientuser.com/2024/05/20/understanding-cqrs-command-query-responsibility-segregation-pattern-with-c-code-samples/)
 - [Unveiling the Potential: A Deep Dive into C# 14 Features and Benefits](https://medium.com/@pandiyan_cool/unveiling-the-potential-a-deep-dive-into-c-14-features-and-benefits-0a711d3e7b90?source=rss-57f3995a3222------2)
 - [Coffee Can Investing: A Long-Term Recipe for Wealth Creation](https://medium.com/efficientuser/coffee-can-investing-a-long-term-recipe-for-wealth-creation-b16535ff25f1?source=rss-57f3995a3222------2)
-- [South Indian Bank’s Rights Issue: A Deep Dive into Strengthening &amp; Growth](https://medium.com/@pandiyan_cool/south-indian-banks-rights-issue-a-deep-dive-into-strengthening-growth-831ef10c3aff?source=rss-57f3995a3222------2)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
