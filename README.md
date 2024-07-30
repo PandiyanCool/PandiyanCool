@@ -39,8 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandiyancool&" alt="pandiyancool" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandiyancool" alt="pandiyancool" /></a> </p>
-
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/efficientuser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efficientuser" /></a></p><br><br>
