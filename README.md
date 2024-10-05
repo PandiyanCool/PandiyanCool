@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Upsert in MongoDB: A Simple Guide](https://efficientuser.com/2024/09/30/understanding-upsert-in-mongodb-a-simple-guide/)
+- [Why You Should Avoid Using npm install –force in a Next.js Setup on Vercel](https://efficientuser.com/2024/10/05/why-you-should-avoid-using-npm-install-force-in-a-next-js-setup-on-vercel/)
 - [A small MVP](https://medium.com/@pandiyan_cool/a-small-mvp-0a9fc0938408?source=rss-57f3995a3222------2)
 - [The 1–3–5 Technique: Mastering Your To-Do List](https://medium.com/@pandiyan_cool/the-1-3-5-technique-mastering-your-to-do-list-ec53f3ca094e?source=rss-57f3995a3222------2)
 - [Unveiling the Potential: A Deep Dive into C# 14 Features and Benefits](https://medium.com/@pandiyan_cool/unveiling-the-potential-a-deep-dive-into-c-14-features-and-benefits-0a711d3e7b90?source=rss-57f3995a3222------2)
