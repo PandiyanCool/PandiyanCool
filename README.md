@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SSR, Revalidate, CSR, and ISR in Next.js](https://efficientuser.com/2024/12/03/understanding-ssr-revalidate-csr-and-isr-in-next-js/)
+- [Passing Values Between Parent and Child Components in Next.js](https://efficientuser.com/2024/12/04/passing-values-between-parent-and-child-components-in-next-js/)
 - [A small MVP](https://medium.com/@pandiyan_cool/a-small-mvp-0a9fc0938408?source=rss-57f3995a3222------2)
 - [The 1–3–5 Technique: Mastering Your To-Do List](https://medium.com/@pandiyan_cool/the-1-3-5-technique-mastering-your-to-do-list-ec53f3ca094e?source=rss-57f3995a3222------2)
 - [Unveiling the Potential: A Deep Dive into C# 14 Features and Benefits](https://medium.com/@pandiyan_cool/unveiling-the-potential-a-deep-dive-into-c-14-features-and-benefits-0a711d3e7b90?source=rss-57f3995a3222------2)
