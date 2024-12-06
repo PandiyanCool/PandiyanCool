@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React 19 is now stable!](https://efficientuser.com/2024/12/06/react-19-is-now-stable/)
+- [Mastering External API Integration in Next.js: A Beginner-Friendly Guide](https://efficientuser.com/2024/12/06/mastering-external-api-integration-in-next-js-a-beginner-friendly-guide/)
 - [A small MVP](https://medium.com/@pandiyan_cool/a-small-mvp-0a9fc0938408?source=rss-57f3995a3222------2)
 - [The 1–3–5 Technique: Mastering Your To-Do List](https://medium.com/@pandiyan_cool/the-1-3-5-technique-mastering-your-to-do-list-ec53f3ca094e?source=rss-57f3995a3222------2)
 - [Unveiling the Potential: A Deep Dive into C# 14 Features and Benefits](https://medium.com/@pandiyan_cool/unveiling-the-potential-a-deep-dive-into-c-14-features-and-benefits-0a711d3e7b90?source=rss-57f3995a3222------2)
