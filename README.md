@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Must-Read Books for Web Developers in 2025](https://medium.com/@pandiyan_cool/must-read-books-for-web-developers-in-2025-b6891640f720?source=rss-57f3995a3222------2)
+- [Understanding useContext and Implementing It in Next.js](https://efficientuser.com/2024/12/24/understanding-usecontext-and-implementing-it-in-next-js/)
 - [Getting Started with Visual Studio Code in Linux Mint](https://medium.com/@pandiyan_cool/getting-started-with-visual-studio-code-in-linux-mint-7985d0c4b3bc?source=rss-57f3995a3222------2)
-- [Using JavaScript and TypeScript Together in a Next.js Project](https://efficientuser.com/2024/12/11/using-javascript-and-typescript-together-in-a-next-js-project/)
 - [A small MVP](https://medium.com/@pandiyan_cool/a-small-mvp-0a9fc0938408?source=rss-57f3995a3222------2)
-- [The 1–3–5 Technique: Mastering Your To-Do List](https://medium.com/@pandiyan_cool/the-1-3-5-technique-mastering-your-to-do-list-ec53f3ca094e?source=rss-57f3995a3222------2)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
