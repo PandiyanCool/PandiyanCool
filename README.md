@@ -16,9 +16,9 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Use Context in a Next.js App?](https://efficientuser.com/2024/12/24/why-use-context-in-a-next-js-app/)
 - [Must-Read Books for Web Developers in 2025](https://medium.com/@pandiyan_cool/must-read-books-for-web-developers-in-2025-b6891640f720?source=rss-57f3995a3222------2)
 - [Understanding useContext and Implementing It in Next.js](https://medium.com/@pandiyan_cool/understanding-usecontext-and-implementing-it-in-next-js-2f5b1cee6ed2?source=rss-57f3995a3222------2)
-- [Understanding useContext and Implementing It in Next.js](https://efficientuser.com/2024/12/24/understanding-usecontext-and-implementing-it-in-next-js/)
 - [Getting Started with Visual Studio Code in Linux Mint](https://medium.com/@pandiyan_cool/getting-started-with-visual-studio-code-in-linux-mint-7985d0c4b3bc?source=rss-57f3995a3222------2)
 <!-- BLOG-POST-LIST:END -->
 
