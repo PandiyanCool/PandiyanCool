@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Books in 2024](https://medium.com/@pandiyan_cool/books-in-2024-4ba47a5124f0?source=rss-57f3995a3222------2)
-- [Don’t just plan your new year](https://medium.com/efficientuser/dont-just-plan-your-new-year-431f34650338?source=rss-57f3995a3222------2)
 - [Why Use Context in a Next.js App?](https://efficientuser.com/2024/12/24/why-use-context-in-a-next-js-app/)
-- [Must-Read Books for Web Developers in 2025](https://medium.com/@pandiyan_cool/must-read-books-for-web-developers-in-2025-b6891640f720?source=rss-57f3995a3222------2)
+- [Microservices](https://dev.to/pandiyancool/microservices-2den)
+- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
+- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
