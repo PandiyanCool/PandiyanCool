@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 19 Features and Benefits: A Comprehensive Guide for Developers](https://medium.com/@pandiyan_cool/angular-19-features-and-benefits-a-comprehensive-guide-for-developers-ae92cc322e9c?source=rss-57f3995a3222------2)
 - [Why We Need to Sharpen the Saw: The Power of Renewal](https://medium.com/@pandiyan_cool/why-we-need-to-sharpen-the-saw-the-power-of-renewal-d6f6557d1a60?source=rss-57f3995a3222------2)
 - [Books in 2024](https://medium.com/@pandiyan_cool/books-in-2024-4ba47a5124f0?source=rss-57f3995a3222------2)
 - [Don’t just plan your new year](https://medium.com/efficientuser/dont-just-plan-your-new-year-431f34650338?source=rss-57f3995a3222------2)
-- [Why Use Context in a Next.js App?](https://efficientuser.com/2024/12/24/why-use-context-in-a-next-js-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
