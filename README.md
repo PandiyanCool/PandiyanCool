@@ -16,10 +16,10 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Default Slack Notifications Instead of Windows Action Center Notifications &lpar;Temporary…](https://medium.com/@pandiyan_cool/how-to-enable-default-slack-notifications-instead-of-windows-action-center-notifications-temporary-5832db7b2031?source=rss-57f3995a3222------2)
 - [Mastering Angular 19’s Latest Dependency Injection Enhancements](https://medium.com/@pandiyan_cool/mastering-angular-19s-latest-dependency-injection-enhancements-a986a474ac88?source=rss-57f3995a3222------2)
 - [Standalone Components: A New Era in Modular Development](https://medium.com/@pandiyan_cool/standalone-components-a-new-era-in-modular-development-79c959b02185?source=rss-57f3995a3222------2)
 - [Angular 19 Features and Benefits: A Comprehensive Guide for Developers](https://medium.com/@pandiyan_cool/angular-19-features-and-benefits-a-comprehensive-guide-for-developers-ae92cc322e9c?source=rss-57f3995a3222------2)
-- [Why We Need to Sharpen the Saw: The Power of Renewal](https://medium.com/@pandiyan_cool/why-we-need-to-sharpen-the-saw-the-power-of-renewal-d6f6557d1a60?source=rss-57f3995a3222------2)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
