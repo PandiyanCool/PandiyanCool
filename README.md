@@ -17,9 +17,9 @@
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Arrays in C#](https://efficientuser.com/2025/03/03/understanding-arrays-in-c/)
-- [How to Enable Default Slack Notifications Instead of Windows Action Center Notifications &lpar;Temporary…](https://medium.com/@pandiyan_cool/how-to-enable-default-slack-notifications-instead-of-windows-action-center-notifications-temporary-5832db7b2031?source=rss-57f3995a3222------2)
-- [Mastering Angular 19’s Latest Dependency Injection Enhancements](https://medium.com/@pandiyan_cool/mastering-angular-19s-latest-dependency-injection-enhancements-a986a474ac88?source=rss-57f3995a3222------2)
-- [Standalone Components: A New Era in Modular Development](https://medium.com/@pandiyan_cool/standalone-components-a-new-era-in-modular-development-79c959b02185?source=rss-57f3995a3222------2)
+- [Microservices](https://dev.to/pandiyancool/microservices-2den)
+- [Adding Cool Badges to Your GitHub Repository](https://dev.to/pandiyancool/adding-cool-badges-to-your-github-repository-4f32)
+- [How long do you run your bug bash session in a product / project?](https://dev.to/pandiyancool/how-long-do-you-run-your-bug-bash-session-in-a-product-project-22mn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  📧 Connect with me
