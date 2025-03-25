@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Arrays in C#](https://efficientuser.com/2025/03/03/understanding-arrays-in-c/)
+- [🚀 Fixing Time Limit Exceeded in “Longest Consecutive Sequence” &lpar;LeetCode 128&rpar;](https://efficientuser.com/2025/03/26/%f0%9f%9a%80-fixing-time-limit-exceeded-in-longest-consecutive-sequence-leetcode-128/)
 - [How to Enable Default Slack Notifications Instead of Windows Action Center Notifications &lpar;Temporary…](https://medium.com/@pandiyan_cool/how-to-enable-default-slack-notifications-instead-of-windows-action-center-notifications-temporary-5832db7b2031?source=rss-57f3995a3222------2)
 - [Mastering Angular 19’s Latest Dependency Injection Enhancements](https://medium.com/@pandiyan_cool/mastering-angular-19s-latest-dependency-injection-enhancements-a986a474ac88?source=rss-57f3995a3222------2)
 - [Standalone Components: A New Era in Modular Development](https://medium.com/@pandiyan_cool/standalone-components-a-new-era-in-modular-development-79c959b02185?source=rss-57f3995a3222------2)
