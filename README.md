@@ -16,7 +16,7 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Do We Need to Test UI Changes During Code Review?](https://efficientuser.com/2025/04/11/do-we-need-to-test-ui-changes-during-code-review/)
+- [From Idea to MVP in a Day — My Talk at Global Azure Bootcamp, Coimbatore](https://efficientuser.com/2025/05/13/from-idea-to-mvp-in-a-day-my-talk-at-global-azure-bootcamp-coimbatore/)
 - [How to Enable Default Slack Notifications Instead of Windows Action Center Notifications &lpar;Temporary…](https://medium.com/@pandiyan_cool/how-to-enable-default-slack-notifications-instead-of-windows-action-center-notifications-temporary-5832db7b2031?source=rss-57f3995a3222------2)
 - [Mastering Angular 19’s Latest Dependency Injection Enhancements](https://medium.com/@pandiyan_cool/mastering-angular-19s-latest-dependency-injection-enhancements-a986a474ac88?source=rss-57f3995a3222------2)
 - [Standalone Components: A New Era in Modular Development](https://medium.com/@pandiyan_cool/standalone-components-a-new-era-in-modular-development-79c959b02185?source=rss-57f3995a3222------2)
